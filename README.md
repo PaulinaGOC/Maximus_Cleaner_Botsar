@@ -4,10 +4,6 @@
 
 ### ROS 2 • YOLOv8 • OpenCV • LiDAR • Nav2 • Arduino • Raspberry Pi
 
-<img src="maximus.jpeg" width="900">
-
-</div>
-
 ---
 
 # Descripción General
